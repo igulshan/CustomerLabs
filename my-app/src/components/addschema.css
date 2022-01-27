@@ -1,0 +1,128 @@
+.blur{
+  width: 60vw;
+  height: 100vh;
+  opacity: 0.4;
+  position: absolute;
+  top:0;
+  background-color:grey;
+}
+.Add {
+  text-align:left;
+  width:40vw;
+  height: 99vh;
+  margin-top:0px;
+  position: absolute;
+  top:0;
+  right:0;
+
+}
+
+.head2{
+  width:40vw;
+  height:10vh;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+}
+
+.p2{
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-left:1.5rem;
+  font-size:1.5rem;
+  color:white;
+}
+
+.formdiv{
+  margin-left:1.5rem;
+  max-width:30vw;
+}
+
+.formdiv input{
+  width:30vw;
+  height:4vh;
+  padding-left:1rem;
+}
+
+.p3{
+  font-size: 1.1rem;
+  margin-top:2rem;
+  margin-bottom:1.5rem;
+}
+
+.dropbox{
+  width:25vw;
+  height:4vh;
+  padding-left:1rem;
+  padding-right:1rem;
+}
+
+.circlecontent{
+  text-align: right;
+}
+
+.circle1,.circle2,.circle{
+  border: 1px;
+  width: 12px;
+  height:10px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left:1rem;
+  margin-right:0.3rem;
+}
+
+.circle1{
+  background-color: green;
+  
+}
+.circle2{
+  background-color: red;  
+}
+.circle{
+  background-color: grey;
+}
+
+.choosen{
+  width:32vw;
+  height:auto;
+  border: 3px solid blue;
+  margin-bottom: 0.7rem;
+  padding-bottom: 0.5rem;
+  border-radius: 3px;
+  padding-top:0.5rem;
+  margin-top:1rem;
+}
+
+.link{
+  margin-left:3.5rem;
+}
+
+.foot{
+  position:absolute;
+  bottom: 0;
+  width:40vw;
+  height:10vh;
+  background-color: gray;
+  padding-top:1rem;
+}
+
+.save{
+  width:10vw;
+  border: 1px solid aqua;
+  border-radius: 0.2rem;
+  height: 5vh;
+  background-color:aqua;
+  color:white;
+  margin-left: 1rem;
+}
+
+.cancel{
+  width:3.5vw;
+  height:5vh;
+  border: 1px solid white;
+  border-radius: 0.2rem;
+  background-color: white;
+  color: red;
+  margin-left: 1rem;
+
+}

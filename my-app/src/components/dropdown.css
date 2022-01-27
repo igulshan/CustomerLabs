@@ -1,0 +1,36 @@
+.formdiv2{
+    margin-left:0.1rem;
+    max-width:30vw;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.redcircle,.greencircle{
+    border: 1px;
+    width: 12px;
+    height:10px;
+    border-radius: 50%;
+    margin-left:0.7rem;
+    margin-right:0.3rem;
+}
+
+.redcircle{
+    background-color: red;
+}
+
+.greencircle{
+    background-color: green;
+}
+
+.remove{
+    font-size: 1.2rem;
+    height:4vh;
+    width: 3vw;
+    background-color: rgb(202, 230, 231);
+    text-align: center;
+    margin-left:0.5rem;
+    font-weight: bold;
+    
+}
+  
